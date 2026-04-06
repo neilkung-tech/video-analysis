@@ -35,7 +35,7 @@ node --version
 
 ### Telegram Bot 配置
 1. BotFather 创建 Bot → 获取 Token
-2. 获取 Chat ID（数字格式，如 `7422537032`）
+2. 获取 Chat ID（数字格式，如 `YOUR_CHAT_ID`）
 
 ## Agent 操作步骤
 
