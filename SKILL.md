@@ -127,6 +127,7 @@ video-analysis/
 
 | 问题 | 原因 | 解决 |
 |------|------|------|
+| sub-agent "pairing required" | 第二个 device scope 未 approve | `openclaw devices approve --latest --token <token>` |
 | No captions available | Chrome 未登录 YouTube | VNC 登录 YouTube |
 | Robot detected | 同上 | 同上 |
 | HTTP 429 (zh-Hans) | 中文翻译限流 | 脚本自动降级到英文 |
