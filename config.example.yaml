@@ -1,0 +1,5 @@
+# Video Analysis 配置文件
+# 复制此文件为 config.local 并填入实际值
+
+telegram:
+  chat_id: "YOUR_CHAT_ID"
